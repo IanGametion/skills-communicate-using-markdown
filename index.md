@@ -11,3 +11,7 @@ I'm going to achieve my dreams of being able to code for a living.
 ```Python
 print("Hello World!")
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
