@@ -6,3 +6,4 @@
 ###### Testing for Header 6
 
 I'm going to achieve my dreams of being able to code for a living.
+![IanGametionPFP](https://github.com/user-attachments/assets/3571887b-9cb2-4be7-a5be-c615f44cf4a7)
